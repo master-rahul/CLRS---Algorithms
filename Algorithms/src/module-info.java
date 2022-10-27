@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author extreme
+ *
+ */
+module Algorithms {
+}
